@@ -1,0 +1,6 @@
+torch
+torchtext
+accelerate
+einops
+transformers
+sentence_transformers
